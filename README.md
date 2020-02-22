@@ -3,9 +3,9 @@
 ## Update & Upgrade
 
 ```bash
-sudo apt update -y && apt upgrade -y
+sudo apt-get update -y && apt-get upgrade -y
 ```
 
 ```shell
-sudo apt install fail2ban curl htop git
+sudo apt-get install fail2ban curl htop git
 ```
