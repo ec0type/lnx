@@ -12,3 +12,7 @@ sudo apt-get install fail2ban curl htop git
 
 ## Software
 [Test](https://www.google.de)
+
+## Configs
+
+## Shell
